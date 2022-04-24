@@ -4,7 +4,7 @@
   "description": "This is an experiment repo for playing with `git rebase` and squashing commits",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/harrisgeo88/some-repo/issues"
   },
-  "homepage": "https://github.com/harrisgeo88/some-repo#readme"
+  "homepage": "https://github.com/harrisgeo88/some-repo#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
 }
