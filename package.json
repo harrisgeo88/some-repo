@@ -1,0 +1,20 @@
+{
+  "name": "some-repo",
+  "version": "1.0.0",
+  "description": "This is an experiment repo for playing with `git rebase` and squashing commits",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harrisgeo88/some-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harrisgeo88/some-repo/issues"
+  },
+  "homepage": "https://github.com/harrisgeo88/some-repo#readme"
+}
